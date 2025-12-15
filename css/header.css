@@ -16,3 +16,10 @@ li {
   margin: 0 15px;
   font-size: 20px;
 }
+/* Footer styles */
+footer {
+  background-color: rgb(200, 200, 200);
+  text-align: center;
+  padding: 10px 0;
+  font-size: 18px;
+}
